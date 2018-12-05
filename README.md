@@ -22,5 +22,5 @@ The whole project is self-contained with necessary outputs and explainations in 
 
 ### Datasets
 There are two datasets used in the project.
-* DogImages- It has a total of 8351 dog images of 133 categories.
+* dogImages- It has a total of 8351 dog images of 133 categories.
 * lfw- It has a total of 13233 human faces.
