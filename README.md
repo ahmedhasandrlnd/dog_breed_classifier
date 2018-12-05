@@ -4,7 +4,7 @@ Deep Learning Nanodegree Project 2
 
 
 ## Project description
-In this project, we'll  develope an algorithm that could be used as part of a mobile or web app. Our code will accept any user-supplied image as input. If a dog is detected in the image, it will provide an estimate of the dog's breed. If a human is detected, it will provide an estimate of the dog breed that is most resembling. The image below displays potential sample output of our finished project . 
+In this project, we'll  implement an algorithm that could be used as part of a mobile or web app. Our code will accept any user-supplied image as input. If a dog is detected in the image, it will provide an estimate of the dog's breed. If a human is detected, it will provide an estimate of the dog breed that is most resembling. The image below displays potential sample output of our finished project . 
 
 ![Sample Dog Output](images/screen_dog.png)
 
@@ -18,4 +18,4 @@ In this real-world setting, we'll need to piece together a series of models to p
 For information regarding the requirement packages check the file requirement.txt. To train the network, we need an access to CUDA supported GPU.
 
 ### Notebook
-The whole project is self-contatined with necessary outputs and explainations in the dog_app.ipynb notebook
+The whole project is self-contatined with necessary outputs and explainations in the dog_app.ipynb notebook.
