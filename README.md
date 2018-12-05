@@ -19,3 +19,8 @@ For information regarding the requirement packages check the file requirement.tx
 
 ### Notebook
 The whole project is self-contained with necessary outputs and explainations in the dog_app.ipynb notebook.
+
+### Datasets
+There are two datasets used in the project.
+* DogImages- It has a total of 8351 dog images of 133 categories.
+* lfw- It has a total of 13233 human faces.
