@@ -12,6 +12,8 @@ In this real-world setting, we'll need to piece together a series of models to p
 
 ![Sample Human Output](images/screen_human.png)
 
+![Sample Human Output](images/screen_hotdog.png)
+
 ## Getting started
 
 ### Requirement 
