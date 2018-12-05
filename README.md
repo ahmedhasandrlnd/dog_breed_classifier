@@ -18,4 +18,4 @@ In this real-world setting, we'll need to piece together a series of models to p
 For information regarding the requirement packages check the file requirement.txt. To train the network, we need an access to CUDA supported GPU.
 
 ### Notebook
-The whole project is self-contatined with necessary outputs and explainations in the dog_app.ipynb notebook.
+The whole project is self-contained with necessary outputs and explainations in the dog_app.ipynb notebook.
